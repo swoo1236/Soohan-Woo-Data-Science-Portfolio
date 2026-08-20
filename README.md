@@ -18,7 +18,7 @@ Machine learning project using JMP to design and test predictive models for pred
 [View Report](https://github.com/swoo1236/Soohan-Woo-Data-Science-Portfolio/blob/main/Bandit%20Telephone%20Service%20Customer%20Churn%20Analysis%20-%20Decision%20Tree%20and%20Text%20Analytics.pdf)
 
 ## Ensemble Model Analytical Report on Organic Products.pdf
-Machine learning project using JMP to build an ensemble model that predictive customer loyalty to organic products
+Machine learning project using JMP to build an ensemble model that predicts customer loyalty to organic products
 [View Report](https://github.com/swoo1236/Soohan-Woo-Data-Science-Portfolio/blob/main/Ensemble%20Model%20Analytical%20Report%20on%20Organic%20Products.pdf)
 
 ## Predicting Customer Churn - Analytical Report.pdf
